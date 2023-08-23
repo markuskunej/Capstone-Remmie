@@ -1,2 +1,2 @@
 # Capstone-Remmie
-Applying Machine Learning to Ear Disease Diagnosis &amp; Image Capture. 4th Year Capstone Project with Remmie Health.
+4th Year Capstone Project with Remmie Health. The goal was to improve their consumer otoscope (camera for ears) by utilizing machine learning to help identify cases of ear infection (Otitis Media) without the need for a doctor. The goal evolved into improving the quality of photos that users would take through the use of a object detection network, by locating various landmarks of the ear canal.
